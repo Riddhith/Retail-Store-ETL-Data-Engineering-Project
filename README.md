@@ -8,8 +8,8 @@ Let's Start with requirement to complete the projects:-
 3. PyCharm installed in the system.
 4. MySQL workbench should also be installed to the system.
 5. GitHub account is good to have but not necessary.
-5. An AWS account is needed.
-
+6. An AWS account is needed.
+7. It is recommended to execute the project in a virtual environment.
 
 ```plaintext
 Project structure:-
