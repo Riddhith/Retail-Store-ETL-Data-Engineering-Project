@@ -78,5 +78,5 @@ Project Architecture:-
 ![Architecture](docs/architecture.png)
 
 Database ER Diagram:-
-![Architecture](/home/riddhith/PycharmProjects/Retail_Store_Data_Engineering_Project/docs/database_schema.drawio.png)
+![Architecture](docs/database_schema.drawio.png)
 
